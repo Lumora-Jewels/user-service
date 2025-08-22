@@ -1,5 +1,5 @@
 {
-  "name": "Lumora-Jewels",
+  "name": "user-service",
   "version": "1.0.0",
   "main": "index.js",
   "repository": "https://github.com/Lumora-Jewels/user-service.git",
@@ -16,7 +16,7 @@
     "nodemon": "^3.1.10"
   },
   "scripts": {
-  "start": "node index.js",
-  "dev": "nodemon index.js"
+    "start": "node index.js",
+    "dev": "nodemon index.js"
 }
 }
